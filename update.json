@@ -1,7 +1,7 @@
 {
   "min_supported_version": "2.0.0.0",
   "latest_version": "0.1.2.0",
-  "message": "Update available: CalBoard Agent 0.1.2.0. This update replaces the fixed 999 CAL skip option with a configurable Skip CAL Range, allowing you to exclude any range of CAL numbers from being posted to CalBoard.",
+  "message": "This software has been replaced by ECTHub and no longer functions",
   "download_url": "https://github.com/J0shS/CalBoardAgent-Distrib/releases/latest/download/Setup_CalBoardAgent.exe"
 }
 
